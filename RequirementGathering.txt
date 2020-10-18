@@ -1,5 +1,14 @@
-System Idea:
-System Purpose:
+System Idea: The idea is to provide a AI based recommendation system to all the young students who just cleared their Intermediate and now looking to move forward in to the world of Universities.
+
+
+
+System Purpose: Purpose of this application will be to gives a proper idea and degree guidelines to the students. Let's take an example: Student just cleared his FSC PRE MED, n he/she just unable to clear M-CAT entry test. Now what he/she should do? Like, he/she will looking for other degrees like CS, SE, ENG, MATH etc. But He/She don't know what should be chosen. The same situtation could be something like this, a student just scored 60% marks in INTER. now what he should do? Which University gonna admit that student? If he is not very good in Math so should he choose BSCS? If he is not finacially stable so should he go for Private Universities where fees are touching 15 lacs for 4 YEARS? If he is living in Multan, is that worth it for him to take admission in Lahore? If he is coming from another city to another city for education, in which hostel he is going to stay? which kind of transport he gonna use? Which kind of fee payment method he will be allowed to use? If he choose CS, so what next? What he can do after this degree? Or any degree? Future Scopes? etc...
+
+So, all these questions, we are going to make an application a web-based. Where user can put his marks (of all subjects), city, financial level, interest and parents choices. And our Application will recommend him/her a better future degree according to his skills (based on his her marks from INTERMEDIATE), in his/her budget according his/her choice n city. 
+Then we also wanna to keep an eye on all our students, that are they doing good or not, etc.
+
+
+
 Requirement Gathereing;
 1.
 2.
