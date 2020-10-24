@@ -1,5 +1,17 @@
-System Idea:
-System Purpose:
+System Idea: 
+
+System idea is very simple n clear. Let's take an example here. You just cleared your intermediate exams in FSC Pre Eng. Now, what? you are looking for a better degree for your future. Which also suite you. 
+Now as all we know, there are many different degrees including 4-YEARS n 2-Years plans. i.e. Mechanical, Electrical, Civil, Non-Eng progreams like CS, IT, SE. Arts Programs like Business, Architecture and much more. Now sometimes it's really a tough choice to choose between two proper options etc. Also, many times or in many cases you even don't know if you are going to choose Computer Science. So, what kinds of courses you will have to study. Similarly to others. Also, you have to search everywhere for the best degree, HEC approved gurrentee, Fee structure idea, location, near hostels, transports etc. 
+
+So, FresherMate.com is going to be your mate/friend forever. Its going to help you in all the journey of your University life. First you will submit your inter marks in your FRESHERMATE.COM Account/App/Website. Then you enter your Inerests (like what do you want to do in future), then you mention your location and interested location where you want to study, then you enter your parents interest like what they want you should be in future, then you enter your financial level i.e. your father/mother monthly income.
+
+After everything, FresherMater.com will use it's AI ability to give you the best recommendation of degrees, and scopes. It will also tell your the best university for that degree, best uni in your budget, best uni in your desire location (where you wanna to study), future scopes n all courses details regarding that degree, also will tell your nearest hostels details, uni fee structure, available transport in that area and some other features like it. 
+
+
+System Purpose: 
+
+System purpose is to provide best and easy solution to all the frehsers who just cleared their inter exams and now waana to study more. So, this system will guide you about possible future path. 
+
 Requirement Gathereing;
 1.
 2.
